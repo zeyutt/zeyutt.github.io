@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zeyu's Blogs"
 title_separator          : "-"
 name                     : &name "Zeyu Liu"
-description              : &description "PhD. student at Shanghai Jiao Tong University"
+description              : &description "Ph.D student at Shanghai Jiao Tong University"
 url                      : https://zeyutt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zeyutt/zeyutt.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zeyu Liu"
   avatar           : "profile.png"
-  bio              : "PhD. student at Shanghai Jiao Tong University"
+  bio              : "Ph.D student at Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
